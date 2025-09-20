@@ -1,0 +1,53 @@
+2025-09-20 00:58:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\hp\IdeaProjects\opencart121\grid-docker.xml"
+2025-09-20 00:58:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\IdeaProjects\opencart121\grid-docker.xml
+
+2025-09-20 00:58:12 INFO  tc001_AccountRegistrationTest:21 - *** Starting Account RegistrationTest ***
+2025-09-20 00:58:12 DEBUG tc001_AccountRegistrationTest:22 - *** This is debugMessage ***
+2025-09-20 00:58:12 INFO  tc001_AccountRegistrationTest:26 - *** Clicked on My account ***
+2025-09-20 00:58:13 INFO  tc001_AccountRegistrationTest:29 - *** Clicked On Register ***
+2025-09-20 00:58:13 INFO  tc001_AccountRegistrationTest:32 - *** Provided Customer details ***
+2025-09-20 00:58:15 INFO  tc001_AccountRegistrationTest:51 - *** Validation expected Message
+2025-09-20 00:58:15 INFO  tc001_AccountRegistrationTest:65 - ** Test Passed **
+2025-09-20 00:58:15 INFO  tc001_AccountRegistrationTest:71 - *** Finished tc001Account Registration Test *** 
+2025-09-20 00:58:18 INFO  tc002_LoginTest:14 - ** verifying logging **
+2025-09-20 00:58:20 INFO  tc002_LoginTest:31 - *** login test passed ***
+2025-09-20 00:58:32 INFO  tc001_AccountRegistrationTest:21 - *** Starting Account RegistrationTest ***
+2025-09-20 00:58:32 DEBUG tc001_AccountRegistrationTest:22 - *** This is debugMessage ***
+2025-09-20 00:58:32 INFO  tc001_AccountRegistrationTest:26 - *** Clicked on My account ***
+2025-09-20 00:58:33 INFO  tc001_AccountRegistrationTest:29 - *** Clicked On Register ***
+2025-09-20 00:58:33 INFO  tc001_AccountRegistrationTest:32 - *** Provided Customer details ***
+2025-09-20 00:58:36 INFO  tc001_AccountRegistrationTest:51 - *** Validation expected Message
+2025-09-20 00:58:36 INFO  tc001_AccountRegistrationTest:65 - ** Test Passed **
+2025-09-20 00:58:36 INFO  tc001_AccountRegistrationTest:71 - *** Finished tc001Account Registration Test *** 
+2025-09-20 00:58:43 INFO  tc002_LoginTest:14 - ** verifying logging **
+2025-09-20 00:58:45 INFO  tc002_LoginTest:31 - *** login test passed ***
+2025-09-20 19:38:48 DEBUG TestNG:82 - suiteXmlPath: "C:\IdeaProjects\opencart121\master.xml"
+2025-09-20 19:39:59 DEBUG TestNG:82 - suiteXmlPath: "C:\IdeaProjects\opencart121\master.xml"
+2025-09-20 19:42:27 DEBUG TestNG:82 - suiteXmlPath: "C:\IdeaProjects\opencart121\master.xml"
+2025-09-20 19:43:51 DEBUG TestNG:82 - suiteXmlPath: "C:\IdeaProjects\opencart121\master.xml"
+2025-09-20 19:43:52 INFO  Utils:112 - [TestNG] Running:
+  C:\IdeaProjects\opencart121\master.xml
+
+2025-09-20 19:50:10 DEBUG TestNG:82 - suiteXmlPath: "C:\IdeaProjects\opencart121\master.xml"
+2025-09-20 19:50:24 INFO  tc001_AccountRegistrationTest:21 - *** Starting Account RegistrationTest ***
+2025-09-20 19:50:24 DEBUG tc001_AccountRegistrationTest:22 - *** This is debugMessage ***
+2025-09-20 19:50:25 INFO  tc001_AccountRegistrationTest:26 - *** Clicked on My account ***
+2025-09-20 19:50:25 INFO  tc001_AccountRegistrationTest:29 - *** Clicked On Register ***
+2025-09-20 19:50:25 INFO  tc001_AccountRegistrationTest:32 - *** Provided Customer details ***
+2025-09-20 19:50:28 INFO  tc001_AccountRegistrationTest:51 - *** Validation expected Message
+2025-09-20 19:50:28 INFO  tc001_AccountRegistrationTest:65 - ** Test Passed **
+2025-09-20 19:50:28 INFO  tc001_AccountRegistrationTest:71 - *** Finished tc001Account Registration Test *** 
+2025-09-20 19:50:34 INFO  tc002_LoginTest:14 - ** verifying logging **
+2025-09-20 19:50:36 INFO  tc002_LoginTest:31 - *** login test passed ***
+2025-09-20 19:57:06 DEBUG TestNG:82 - suiteXmlPath: "C:\IdeaProjects\opencart121\master.xml"
+2025-09-20 19:57:19 INFO  tc001_AccountRegistrationTest:21 - *** Starting Account RegistrationTest ***
+2025-09-20 19:57:19 DEBUG tc001_AccountRegistrationTest:22 - *** This is debugMessage ***
+2025-09-20 19:57:19 INFO  tc001_AccountRegistrationTest:26 - *** Clicked on My account ***
+2025-09-20 19:57:28 INFO  tc001_AccountRegistrationTest:29 - *** Clicked On Register ***
+2025-09-20 19:57:28 INFO  tc001_AccountRegistrationTest:32 - *** Provided Customer details ***
+2025-09-20 19:57:30 INFO  tc001_AccountRegistrationTest:51 - *** Validation expected Message
+2025-09-20 19:57:30 INFO  tc001_AccountRegistrationTest:65 - ** Test Passed **
+2025-09-20 19:57:30 INFO  tc001_AccountRegistrationTest:71 - *** Finished tc001Account Registration Test *** 
+2025-09-20 19:57:36 INFO  tc002_LoginTest:14 - ** verifying logging **
+2025-09-20 19:57:40 INFO  tc002_LoginTest:31 - *** login test passed ***
